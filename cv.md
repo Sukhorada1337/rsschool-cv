@@ -20,9 +20,12 @@ I am studying in Warsaw in my third year at university (project management and u
 - Polish (B2)
 - Russian (С2)
 
+##Courses
+- RSSchool CV
+
 ## Code Examples
-`
+```
 function multiply(a, b){
   return a * b
 }
-`
+
