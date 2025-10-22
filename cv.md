@@ -21,6 +21,8 @@ I am studying in Warsaw in my third year at university (project management and u
 - Russian (Native)
 
 ## Code Examples
+`
 function multiply(a, b){
   return a * b
 }
+`
