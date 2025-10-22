@@ -9,7 +9,7 @@
 I am studying in Warsaw in my third year at university (project management and user experience).
 
 ## Skills
-- HTML, CSS, Git, C++, C#
+- Java Script, HTML, CSS, Git, C++, C#
 - Teamwork and communication
 
 ## Education
