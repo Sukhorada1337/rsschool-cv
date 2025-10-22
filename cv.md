@@ -18,7 +18,7 @@ I am studying in Warsaw in my third year at university (project management and u
 ## Languages
 - English (B1)
 - Polish (B2)
-- Russian (Native)
+- Russian (С2)
 
 ## Code Examples
 `
