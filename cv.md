@@ -20,7 +20,7 @@ I am studying in Warsaw in my third year at university (project management and u
 - Polish (B2)
 - Russian (С2)
 
-##Courses
+## Courses
 - RSSchool CV
 
 ## Code Examples
